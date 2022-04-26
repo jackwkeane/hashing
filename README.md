@@ -1,3 +1,5 @@
+# Grade: 100.0/100.0
+
 # Project-3
 
 This assignment is due Monday, May 3rd 2021 at 11:59 pm. Upload or push all the associated files to your repository before then. Try to push all final files to the "main" branch.
