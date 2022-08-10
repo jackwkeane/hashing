@@ -32,6 +32,6 @@ toString(): String | Retusn **key** and **value** in a formatted string
 
 6\. Test your three versions of the class HashMap in a test program HashMaps as follows:
 
-  6A. In the main method, Instantiate the three classes for types <String, String>. Insert the data from the file dictionary.txt in the three hash maps.
+6A. In the main method, Instantiate the three classes for types <String, String>. Insert the data from the file dictionary.txt in the three hash maps.
 
-b. Perform 100 random search operations on the three data structures. Display the number of iterations for each word searched in the three data structures. Finally, display the average number of iterations for the three data structures.
+6B. Perform 100 random search operations on the three data structures. Display the number of iterations for each word searched in the three data structures. Finally, display the average number of iterations for the three data structures.
