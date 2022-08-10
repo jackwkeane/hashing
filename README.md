@@ -11,7 +11,7 @@ the collisions.
 
 ## Project Outline
 1. Create the generic class MapEntry as shown in the UML diagram below:
-**MapEntry<K, V>**| Generic class with two types
+MapEntry<K, V> | Generic class with two types
 ------------ | -------------
 key: K | Data member **key** of type **K**
 value: V | Data member **value** of type **V**
