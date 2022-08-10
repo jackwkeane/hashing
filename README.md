@@ -13,9 +13,9 @@ the collisions.
 1. Create the generic class MapEntry as shown in the UML diagram below:
 MapEntry<K, V> | Generic class with two types
 ------------ | -------------
-key: K | Data member **key** of type **K**
+key: K | Data member key of type K
 value: V | Data member **value** of type **V**
 MapEntry(K k, V v) | Constructor to initialize **key** to **K** and **value** to **V**
 getKey(): K | Retrns the value of **key**
-getValue(): V | Returns the value of **value**
+getValue(): V | Returns the value of value
 toString(): String | Retusn **key** and **value** in a formatted string
