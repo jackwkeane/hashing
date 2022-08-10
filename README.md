@@ -20,6 +20,8 @@ MapEntry(K k, V v) | Constructor to initialize **key** to **K** and **value** to
 getKey(): K | Retrns the value of **key**
 getValue(): V | Returns the value of **value**
 toString(): String | Retusn **key** and **value** in a formatted string
+
+
 2\. Use the implementation of the class HashMap seen in class to create a new class named HashMapSC (Hash Map with Separate Chaining)
 3\. Use the implementation of the class HashMapSC and modify it to create a new class named HashMapLP (Hash Map with Linear Probing) that handles collisions using linear probing.
 4\. Use the implementation of the class HashMapLP and modify it to create a new class named HashMapQP (Hash Map with Quadratic Probing) that handles collisions using quadratic probing.
