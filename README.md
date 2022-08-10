@@ -16,7 +16,6 @@ MapEntry<K, V> | Generic class with two types
 ------------ | -------------
 key: K | Data member key of type K
 value: V | Data member value of type V
-
 MapEntry(K k, V v) | Constructor to initialize **key** to **K** and **value** to **V**
 getKey(): K | Retrns the value of **key**
 getValue(): V | Returns the value of value
